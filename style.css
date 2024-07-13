@@ -1,0 +1,48 @@
+div {
+    background-color:olivedrab;
+}
+p{
+    color: black;
+}
+.original_title{
+    background-color: orange;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-self: center;
+}
+
+.summary_title{
+background-color: greenyellow;
+font-size: 20px;
+font-weight: bold;
+padding: 2px;
+justify-content: center;
+
+}
+.srt{
+    display: flex;
+    flex-direction: row;
+}
+.originalTxt{
+    background-color: orangered;
+    padding: 20px;
+
+}
+.summaryTxt{
+    background-color: greenyellow;
+    padding: 20px;
+
+}
+.heading{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.lead{
+    
+    display: flex;
+    justify-content: center;
+
+}
